@@ -66,5 +66,5 @@ python main.py
 ## Author
 
 Izhaan Mubeen
-Mechatronics and Control Engineering Student
+Mechatronics and Control Engineer
 GitHub: https://github.com/izhaan-mubeen
